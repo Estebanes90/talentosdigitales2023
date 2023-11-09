@@ -1,3 +1,6 @@
+Se incluye una copia de la base de datos usada para la implementación de la aplicación web, la misma se encuentra 
+en el repositorio https://github.com/Estebanes90/besededatos, debe descargarse e importarla en el motor de base de datos correspondiente
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
